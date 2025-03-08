@@ -10,7 +10,7 @@ To run this repo
 
 1. https://github.com/viveknarula1980/Wallet-Analyzer.git
 
-2. npm i
+2. npm install
 
 3. npm run dev
 
